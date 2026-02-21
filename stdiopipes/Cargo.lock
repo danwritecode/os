@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "stdiopipes"
+name = "ioexperiments"
 version = "0.1.0"
